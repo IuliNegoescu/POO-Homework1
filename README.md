@@ -1,6 +1,4 @@
-Desigur, Șefule, iată traducerea în engleză, scrisă clar și profesional pentru README sau CV:
 
----
 
 **Negoescu Iulian Andrei – 321-AB**
 **Operating System:** macOS
